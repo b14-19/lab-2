@@ -27,4 +27,12 @@ if h == "1":
         x = int(input("Number 1: "))
         y = int(input("Number 2: "))
         print("The LCM Of " + str(x) + " And " + str(y) + " Is " + str(lcm(x, y)))
+        Output
+        number1=10
+        number2=15
+        number3=20
+        lcm of 10 and 15 and 20 is 60
+        number1=10
+        number2=15
+        the lcm of 10 and 15 is 30
    
